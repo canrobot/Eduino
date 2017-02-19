@@ -1,18 +1,18 @@
 # Eduino Library
 
-Eduino´Â Educatrion°ú Arduino¿ÍÀÇ ÇÕ¼º¾îÀÔ´Ï´Ù.
+EduinoëŠ” Educationê³¼ Arduinoì™€ì˜ í•©ì„±ì–´ìž…ë‹ˆë‹¤.
 
-Àç¹ÌÀÖ´Â ±³½Ç³îÀÌ ÇÁ·ÎÁ§Æ®¸¦ À§ÇÑ ¶óÀÌºê·¯¸®ÀÔ´Ï´Ù.
+ìž¬ë¯¸ìžˆëŠ” êµì‹¤ë†€ì´ í”„ë¡œì íŠ¸ë¥¼ ìœ„í•œ ë¼ì´ë¸ŒëŸ¬ë¦¬ìž…ë‹ˆë‹¤.
 
-[±øÅë·Îº¿¿¬±¸¼Ò Ä«Æä](http://cafe.naver.com/gcanrobot)·Î ³î·¯ ¿À¼¼¿ä.
+[ê¹¡í†µë¡œë´‡ì—°êµ¬ì†Œ ì¹´íŽ˜](http://cafe.naver.com/gcanrobot)ë¡œ ë†€ëŸ¬ ì˜¤ì„¸ìš”.
 
 ## Version - 1.00
 
 ## Installation
-1. ÃÖ½Å¹öÀüÀ» ´Ù¿î¹ÞÀ¸¼¼¿ä.
-2. ´ÙÀ½ °æ·Î·Î ÀÌµ¿ÇÏ¿© ¾ÐÃàÀ» Ç±´Ï´Ù. (C:\Users\»ç¿ëÀÚ\Documents\Arduino\libraries)
-3. Arduino IDE¸¦ ´Ù½Ã Àç½ÇÇàÇÕ´Ï´Ù.
-4. Arduino IDEÀÇ [ÆÄÀÏ]-[¿¹Á¦] ¿¡¼­ ¶óÀÌºê·¯¸®ÀÇ ¿¹Á¦ÆÄÀÏÀ» ½ÇÇàÇÕ´Ï´Ù. ±ß ·°~~~
+1. ìµœì‹ ë²„ì „ì„ ë‹¤ìš´ë°›ìœ¼ì„¸ìš”.
+2. ë‹¤ìŒ ê²½ë¡œë¡œ ì´ë™í•˜ì—¬ ì••ì¶•ì„ í’‰ë‹ˆë‹¤. (C:\Users\ì‚¬ìš©ìž\Documents\Arduino\libraries)
+3. Arduino IDEë¥¼ ë‹¤ì‹œ ìž¬ì‹¤í–‰í•©ë‹ˆë‹¤.
+4. Arduino IDEì˜ [íŒŒì¼]-[ì˜ˆì œ] ì—ì„œ ë¼ì´ë¸ŒëŸ¬ë¦¬ì˜ ì˜ˆì œíŒŒì¼ì„ ì‹¤í–‰í•©ë‹ˆë‹¤. ê¸‹ ëŸ­~~~
 
 ## Usage
 - TODO (Check examples for now)
