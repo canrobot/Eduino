@@ -4,7 +4,7 @@ Eduino는 Educatrion과 Arduino와의 합성어입니다.
 
 재미있는 교실놀이 프로젝트를 위한 라이브러리입니다.
 
-[깡통로봇연구소 카페](http://http://cafe.naver.com/gcanrobot)
+[깡통로봇연구소 카페](http://http://cafe.naver.com/gcanrobot)로 놀러 오세요.
 
 ## Version - 1.00
 

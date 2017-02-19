@@ -9,10 +9,10 @@ Eduino는 Educatrion과 Arduino와의 합성어입니다.
 ## Version - 1.00
 
 ## Installation
-1. Navigate to the [Releases](https://github.com/shirriff/Arduino-IRremote/releases) page.
-2. Download the latest release.
-3. Extract the zip file
-4. Move the "IRremote" folder that has been extracted to your libraries directory.
+1. 최신버전을 다운받으세요.
+2. 다음 경로로 이동하여 압축을 풉니다. (C:\Users\사용자\Documents\Arduino\libraries)
+3. Arduino IDE를 다시 재실행합니다.
+4. Arduino IDE의 [파일]-[예제] 에서 라이브러리의 예제파일을 실행합니다. 긋 럭~~~
 
 ## Usage
 - TODO (Check examples for now)
