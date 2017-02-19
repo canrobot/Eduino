@@ -28,4 +28,4 @@ If you want to contribute to this project:
 
 
 ## Copyright
-Copyright 2017 �Ű游
+Copyright 2017 shin kyung man
